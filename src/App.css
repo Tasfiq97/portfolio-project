@@ -1,5 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&display=swap");
+
 .App {
   text-align: center;
+  font-family: "Baloo Bhai 2", cursive;
 }
 
 .App-logo {
