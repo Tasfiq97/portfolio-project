@@ -5,7 +5,7 @@ import { faFacebook, faGoogle, faInstagram, faLinkedin } from '@fortawesome/free
 const Footer = () => {
     return (
         <div style={{background:"black",padding:"30px"}}>
-            <h1 className="text-2xl p-4 text-white">Copyright &copy; 2021 all rights reserved </h1>
+            <h1 className="text-2xl p-4 text-white">Copyright &copy; 2021 all rights reserved by <span className="text-blue-400">Tasfiqul azad</span> </h1>
             <FontAwesomeIcon className="text-white text-3xl mx-5" icon={faGoogle} />
             <FontAwesomeIcon className="text-white text-3xl mx-5" icon={faLinkedin} />
             <FontAwesomeIcon className="text-white text-3xl mx-5" icon={faInstagram} />
