@@ -2,7 +2,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { HashLink } from 'react-router-hash-link';
-import bg from "../../../Images/bg.jpg"
+import bg from "../../../Images/banner.jpg"
 import Banner from '../../Home/Banner/Banner';
 
 const bgBanner={
